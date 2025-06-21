@@ -1,1 +1,1 @@
-# ML_Projects
+Projects while studying Machine Learning
